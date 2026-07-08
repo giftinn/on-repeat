@@ -16,8 +16,8 @@ html:`
 <div class="songCard">
 <img class="cover" src="src/pict.jpg">
 <div class="songInfo">
-<div>Mystery of Love</div>
-<div style="font-size:12px;opacity:.7;margin-bottom:10px">Sufjan Stevens</div>
+<div>⁠I Want to Know What Love Is</div>
+<div style="font-size:12px;opacity:.7;margin-bottom:10px">Foreigner</div>
 
 <div class="player">
 <div class="topRow">
@@ -50,14 +50,14 @@ html:`
 <img src="src/3.jpg" class="filmPic">
 <img src="src/4.jpg" class="filmPic">
 <img src="src/5.jpg" class="filmPic">
-<img src="src/pict.jpg" class="filmPic">
+<img src="src/6.jpg" class="filmPic">
 
 <img src="src/1.jpg" class="filmPic">
 <img src="src/2.jpg" class="filmPic">
 <img src="src/3.jpg" class="filmPic">
 <img src="src/4.jpg" class="filmPic">
 <img src="src/5.jpg" class="filmPic">
-<img src="src/pict.jpg" class="filmPic">
+<img src="src/6.jpg" class="filmPic">
 
 </div>
 </div>
@@ -109,16 +109,18 @@ html:`
 
 <span class="signal">TRANSMISSION START</span><br><br>
 
-TRANSMISSION START
+Hi richiee,
 
-Sometimes I wonder if you notice how softly you exist inside my universe. Sometimes I wonder if you notice how softly you exist inside my universe.
-Sometimes I wonder if you notice how softly you exist inside my universe.
+i just wnt to wish u the best for ur interview today. 🍀
+believe in urself, stay calm, n do ur best. whtver happens, im proud of u for taking this opportunity.
+no matter how today goes, ill still be cheering for u -!!!
 
-Sometimes I wonder if you notice how softly you exist inside my universe. Not loud. Not chaotic.
+intinya banyak semangat yah... maaf gak bisa ngasih banyak kata2 buat u.. 
 
-But like late night radio waves that stay playing even when the world sleeps.
+if u r reading this, congratulations u ve successfully unlocked the richie editionn~
+bahasa alaynya segala tentang richie di rayakan
+-clara
 
-END SIGNAL
 <span class="signal">END SIGNAL</span>
 
 </div>
